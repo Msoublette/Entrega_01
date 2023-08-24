@@ -14,12 +14,12 @@
 ## Antecedentes
 
 #### _¿Qué tipos de datos se investigan?_
-#### Datos cuantitativos sobre el impacto del Fast Fashion en Chile y cómo su uso ha ido cambiando con la llegada del concepto de moda sostenible.
+#### Datos cuantitativos sobre el impacto del Fast Fashion en Chile y cómo sus efectos han ido cambiando con la llegada del fenómeno de la moda sostenible, circular o slow fashion.
 #### Al ser **la industria de la moda la segunda más contaminante del mundo** según la ONU, Chile tiene varias razones por la cual tomar medidas en esta materia.
 #### Según cifras del Ministerio del Medio Ambiente, en los últimos 20 años, **Chile se ha convertido en el país de América Latina que consume más ropa por persona**, aumentando la compra de vestuario en un 233% en ese periodo.
 #### También, somos el cuarto país del mundo que importa más textiles usados. Sólo en el año 2021 se importaron 156 mil toneladas de ropa usada o sin usar, de las cuales cerca del 60% terminó en vertederos ilegales y en el desierto de Atacama.
 #### Se ha calculado que la falta de sistemas de reciclaje y reutilización de desechos textiles y ropa usada significa una pérdida global de más de 500 billones de dólares cada año. Esta cifra incluye a las prendas que los usuarios desechan y también aquellas que las marcas no logran vender, las cuales generalmente terminan en vertederos ilegales o se incineran.
-#### Se estima que 3 de cada 5 prendas de fast fashion terminan en los vertederos.
+#### **Se estima que 3 de cada 5 prendas de fast fashion terminan en los vertederos.**
 #### Un estudio de KPMG identifica las tendencias de comportamiento del consumidor y lo qué los motiva, donde se reveló que el 87% de éstos cree que las empresas tienen la responsabilidad de hacer productos que duren, sean fáciles de arreglar y de reutilizar, por otro lado, el 76% está de acuerdo en que proteger el medio ambiente es más importante que hacer crecer la economía.
 #### **Todos estos datos y muchos más motivan a la gente a inclinarse por la moda sustentable.**
 #### Además, en los últimos años se ha producido una masificación respecto a lo que entendemos por moda sustentable, circular o slow fashion, donde los jóvenes han encabezado un rol fundamental al consumir este tipo de ropa y generar una tendencia. Esto lo queremos profundizar a través de una encuesta dirigida a los mismos jóvenes.
@@ -39,7 +39,7 @@
 
 ## Historia de nuestra propuesta
 
-#### **El problema de la contaminación relacionada a la industria textil lleva años siendo expuesta**, sin embargo, esta no parecía detenerse en crecimiento, y tampoco existían muchas soluciones aceptadas por la misma gente para arreglar esto. **Sin embargo, en esta última década, la moda sustentable ha crecido de tal forma que sí ha logrado ser considerada como una posible solución a la reducción de contaminación de la industria textil**. Hoy en día, y como se expuso anteriormente, el 76% de la gente está de acuerdo en que proteger el medio ambiente es más importante que hacer crecer la economía, demostrando un importante cambio en la conciencia de las personas. **Ahí está el cambio en el tema, en la conciencia**. En Chile, empresas de moda como Wild Lama son reconocidas debido a su gran compromiso con el medio ambiente, donde se preocupan de contribuir de manera positiva a la solución del problema de la contaminación. Aún queda un largo camino para lograr un cambio significativo en esta materia (contaminación de la industria textil), pero lo positivo es que ya es un tema del cual se habla y del cual se intenta mejorar.
+#### **El problema de la contaminación relacionada a la industria textil lleva años siendo expuesto**, sin embargo, esta no parecía detenerse en crecimiento, y tampoco existían muchas soluciones aceptadas por la misma gente para arreglar esto. **Sin embargo, en esta última década, la moda sustentable ha crecido de tal forma que sí ha logrado ser considerada como una posible solución a la reducción de contaminación de la industria textil**. Hoy en día, y como se expuso anteriormente, el 76% de la gente está de acuerdo en que proteger el medio ambiente es más importante que hacer crecer la economía, demostrando un importante cambio en la conciencia de las personas. **Ahí está el cambio en el tema, en la conciencia**. En Chile, empresas de moda como Wild Lama son reconocidas debido a su gran compromiso con el medio ambiente, donde se preocupan de contribuir de manera positiva a la solución del problema de la contaminación. Aún queda un largo camino para lograr un cambio significativo en esta materia (contaminación de la industria textil), pero lo positivo es que ya es un tema del cual se habla y del cual se intenta mejorar.
 
 ## ¿Cómo planeamos trabajar los datos?
 
@@ -68,13 +68,30 @@
 ## ¿Cuál es el resultado mínimo previsible del trabajo a realizar? ¿Cuál es el máximo? 
 
 #### _¿Qué es lo mínimo que se puede contar como historia con los datos que tienen?_
-#### Con los datos que tenemos, podemos afirmar y crear una historia en base a la primicia que el fast fashion es una industria muy contaminante en Chile y el mundo. 
+#### Lo mínimo que podemos contar es a través de un enfoque muy macro y generalizado. Es decir, el fast fashion contamina en grandes cantidades, pero no profundizamos en sus efectos y no lo centramos en Chile, sino que a modo global pero superficial. 
+#### También señalamos que la moda sustentable ha crecido en los últimos años y que ha generado impacto, pero no tendremos los resultados concretos. 
+ 
 
 #### _¿Qué es lo máximo que se puede contar como historia con los datos que tienen?_
-#### Con los datos que tenemos, podemos afirmar y crear una historia en base a la primicia que el fast fashion es una industria muy contaminante en Chile y el mundo. 
+#### Con los datos que tenemos, podemos afirmar y crear una historia en base a la primicia que el fast fashion es una industria muy contaminante en Chile y el mundo, que amenaza todos los días al planeta por los preocupantes efectos que genera. Existe el antecedente del vertedero en San Pedro de Atacama y de los residuos contaminantes que producen las empresas textiles en el país. Sabemos que en los últimos 20 años el consumo por persona aumentó y que somos de los países de América Latina que más ropa compra. 
+#### Lo positivo que sabemos es que sí existen marcas chilenas que son sustentables y que cooperan a aminorar los efectos de la crisis climática. Además, reconocidas marcas de fast fashion están implementando mecanismos para disminuir sus efectos, pero no son suficientes. Falabella tiene marcas sustentables pero aún así produce masivamente ropa. Lo mismo con las ferias de trueque que han realizado para los clientes: aporta pero no es suficiente; pues en la balanza, la contaminación es mucho más grande. Sin embargo, necesitamos los datos de cuántos desechos genera esta y otras marcas de retail, como por ejemplo, H&M, que es una de las más consumidas por los chilenos. 
+#### También sabemos que la industria de la moda sustentable está creciendo y es una tendencia en los jóvenes del país, pero necesitamos realizar una encuesta para que los datos sean fidedignos y confiables.
+#### Necesitamos realizar encuestas y entrevistas a expertos en medio ambiente y en industria textil y moda sustentable. Si bien hay información en artículos e investigaciones, debemos contactarnos de manera directa con los profesionales. También queremos conversar con dueños de marcas sustentables chilenas para poder contar al máximo esta historia.
+
+#### _¿Cuáles son las preguntas que se pueden responder con los datos?_ 
+#### - ¿Qué es el fast fashion?
+#### - ¿Qué es la moda sustentable?
+#### - ¿Qué es el slow fashion?
+#### - ¿Cuáles son los mecanismos y materiales que utilizan marcas sustentables para no contaminar?
+#### - ¿Cuánta ropa consume Chile respecto a otros países?
+#### - ¿Cuánto daño por la industria textil genera Chile al planeta?
+#### - ¿Qué medidas están implementando marcas de fast fashion y retail?
+#### - ¿Cuánto contamina el fast fashion y la industria textil?
+#### - ¿Es una tendencia la moda sustentable?
+#### - ¿Cuál es la postura de los chilenos respecto a la crisis climática?
 
 #### _¿Qué tipo de elementos digitales les gustaría tener?_
-#### Nos gustaría tener audios de expertos hablando sobre ambas industrias: fast fashion y moda sostenible; además del crecimiento que ha tenido en el último tiempo la moda sustentable o “vintage” y las instancias de trueque de ropa. Estas últimas son iniciativas muy buenas ya que impulsan a las personas a reutilizar prendas y no seguir generando contaminación al adquirir prendas de fast fashion. Además de eso, sería óptimo para nuestra historia contar con videos llamativos que impacten a nuestro público objetivo. Por ejemplo, un video de 15 segundos con las cifras más feroces respecto a las consecuencias del fast fashion. Y otro con datos cuantitativos o cualitativos de los efectos positivos de la moda circular. 
+#### Nos gustaría tener audios de expertos hablando sobre ambas industrias: fast fashion y moda sostenible; además del crecimiento que ha tenido en el último tiempo la moda sustentable o _“vintage”_ y las instancias de trueque de ropa. Estas últimas son iniciativas muy buenas ya que impulsan a las personas a reutilizar prendas y no seguir generando contaminación al adquirir prendas de fast fashion. Además de eso, sería óptimo para nuestra historia contar con videos llamativos que impacten a nuestro público objetivo. Por ejemplo, un video de 15 segundos con las cifras más feroces respecto a las consecuencias del fast fashion. Y otro con datos cuantitativos o cualitativos de los efectos positivos de la moda circular. 
 #### Otros elementos interactivos que podemos emplear son líneas de tiempo, con la historia del fast fashion y la moda sustentable; e imágenes en 360° de vertederos contaminantes o de las ferias de trueque.  
 
 #### _¿Cómo estos elementos ayudarán a contar su historia?_
@@ -90,13 +107,13 @@
 ## Fuentes 
 #### Adjuntamos acá las _fuentes_:
 
-#### [Worldbank](https://www.worldbank.org/en/news/feature/2019/09/23/costo-moda-medio-ambiente)
-#### [Mckinsey](https://www.mckinsey.com/~/media/McKinsey/Industries/Retail/Our%20Insights/Fashion%20on%20climate/Fashion-on-climate-Full-report.pdf)
-#### [BBC](https://www.bbc.com/mundo/noticias-america-latina-60024852#:~:text=Pie%20de%20foto%2C,est%C3%A1n%20cubiertas%20de%20desechos%20textiles.&text=Pero%20de%20las%2059.000,y%20termina%20en%20basurales%20clandestinos.)
-#### [MMA](https://mma.gob.cl/ministerio-del-medio-ambiente-crea-comite-para-elaborar-estrategia-de-economia-circular-para-textiles/)
-#### [Vogue.es](https://www.vogue.es/moda/articulos/moda-sostenible-que-significa-guia-consejos-marcas)
-#### [LaTercera](https://www.latercera.com/aniversario/noticia/moda-sostenible-4-empresas-chilenas-en-el-mundo/S5FK7GZTYVAYJGXXYSFROT3BMY/)
-#### [News.un.org](https://news.un.org/es/story/2019/04/1454161)
+#### - [Worldbank](https://www.worldbank.org/en/news/feature/2019/09/23/costo-moda-medio-ambiente)
+#### - [Mckinsey](https://www.mckinsey.com/~/media/McKinsey/Industries/Retail/Our%20Insights/Fashion%20on%20climate/Fashion-on-climate-Full-report.pdf)
+#### - [BBC](https://www.bbc.com/mundo/noticias-america-latina-60024852#:~:text=Pie%20de%20foto%2C,est%C3%A1n%20cubiertas%20de%20desechos%20textiles.&text=Pero%20de%20las%2059.000,y%20termina%20en%20basurales%20clandestinos.)
+#### - [MMA](https://mma.gob.cl/ministerio-del-medio-ambiente-crea-comite-para-elaborar-estrategia-de-economia-circular-para-textiles/)
+#### - [Vogue.es](https://www.vogue.es/moda/articulos/moda-sostenible-que-significa-guia-consejos-marcas)
+#### - [LaTercera](https://www.latercera.com/aniversario/noticia/moda-sostenible-4-empresas-chilenas-en-el-mundo/S5FK7GZTYVAYJGXXYSFROT3BMY/)
+#### - [News.un.org](https://news.un.org/es/story/2019/04/1454161)
 
 
 
