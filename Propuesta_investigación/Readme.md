@@ -84,7 +84,7 @@
 #### - ¿Qué es el slow fashion?
 #### - ¿Cuáles son los mecanismos y materiales que utilizan marcas sustentables para no contaminar?
 #### - ¿Cuánta ropa consume Chile respecto a otros países?
-#### - ¿Cuánto daño por la industria textil genera Chile al planeta?
+#### - ¿Cuánto daño genera la industria textil de Chile al planeta?
 #### - ¿Qué medidas están implementando marcas de fast fashion y retail?
 #### - ¿Cuánto contamina el fast fashion y la industria textil?
 #### - ¿Es una tendencia la moda sustentable?
