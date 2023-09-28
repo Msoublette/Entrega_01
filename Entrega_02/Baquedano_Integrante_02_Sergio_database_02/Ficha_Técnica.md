@@ -8,6 +8,7 @@
 
 
 ### Alcance metodologico
+#### Esta base de datos cumple el rol de poder contextualizar respecto a grandes marcas de fast fashion y sus efectos negativos. Por lo tanto, una de las condiciones que afecta en nuestro trabajo es que no nos enfocaremos en esta información, pero sí nos sirve para tener más antecedentes.
 
 ### Variables Incorporadas 
 
