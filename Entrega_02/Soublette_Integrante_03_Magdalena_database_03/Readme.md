@@ -15,6 +15,8 @@
 
 
 ### **Decisiones a comentar**
+#### - Eliminar variable “Genera Desechos Textiles”. 
+#### - En la variable “Métodos” decidí poner la medida más grande, organizada o llamativa de cada marca, ya que muchas de ellas comparten métodos de reciclaje, sin embargo, algunas se caracterizan por ir más allá con la iniciativa, como Nike con “Move to Zero”.
 
 
 ### **Fuentes de datos**
