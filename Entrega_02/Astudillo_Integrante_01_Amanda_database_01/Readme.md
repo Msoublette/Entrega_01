@@ -19,6 +19,7 @@
 
 
 ### **Fuentes de datos**
+#### Sitios web centrados en la moda sustentable, como Corma, noticias sobre la moda sustentable y sitios web oficiales de páginas que vendan productos 100% sustentables, como Wild Lama.
 #### - [Corma](https://www.corma.cl/moda-sustentable-marcas-mundiales-innovan-usando-fibra-de-madera/)
 #### - [Organización El bien Social](https://elbiensocial.org/11-marcas-de-moda-sustentable-y-ecologica-en-chile/)
 #### - [La Tercera](https://www.latercera.com/aniversario/noticia/moda-sostenible-4-empresas-chilenas-en-el-mundo/S5FK7GZTYVAYJGXXYSFROT3BMY/)

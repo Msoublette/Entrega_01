@@ -2,21 +2,21 @@
 #### _Magdalena Soublette_
 
 ### **Paso a paso**
-#### 1. Para comenzar a construir la base de datos, busqué en internet 
-#### 2. Para la limpieza de datos en mi base, utilicé las páginas oficiales de las marcas para descubrir su país de origen.
-#### 3. Para la estadística de las ganancias anuales, utilicé principalmente el sitio web Statista. En los pocos casos donde este sitio no contaba con la cifra para cierta marca, me guié por noticias de sitios relacionados al mundo de la moda.
-#### 4. El género se definió viendo el catálogo de ropa de cada marca.
-#### 5. Si generaba desechos textiles era bastante obvio, sin embargo, busqué noticias que me comprobaran sus desechos. Decidí eliminar esta variable ya que no aportaba mucho si todas las marcas contestaban a lo mismo. No había dónde comparar.
-#### 6. Para la variable de si reciclaba la marca en cuestión o no, busqué en noticias y los mismos sitios web oficiales de cada marca por planes de reciclaje o programas para reducir su impacto en el medio ambiente.
-#### 7. Finalmente para definir el método, leí sus medidas, las cuales también se encontraban en sus propios sitios web o noticias de la marca.
+#### 1. Para comenzar a construir la base de datos, busqué en internet materiales, naturales o artificiales, para hacer ropa. 
+#### 2. Para la limpieza de datos, utilicé páginas web que informan sobre sustentabilidad y materiales como el algodón, lana, corcho, etc.
+#### 3. Para el origen, me base en diferentes fuentes confiables de internet para determinarlo.
+#### 4. El tipo de tela, también lo determiné a partir de lo mencionado por diferentes fuentes en internet.
+#### 5. Para saber si el material es biodegradable o no, lo determiné a través de diferentes fuentes de internet.
+#### 6. El impacto ambiental se determinó a partir de las razones de este, luego de una investigación por diferentes fuentes.
+#### 7. Finalmente para definir las razones del impacto, nos basamos en lo mencionado por distintas fuentes de internet.
 
 
 ### **Decisiones a comentar**
-#### - Eliminar variable “Genera Desechos Textiles”. 
-#### - En la variable “Métodos” decidí poner la medida más grande, organizada o llamativa de cada marca, ya que muchas de ellas comparten métodos de reciclaje, sin embargo, algunas se caracterizan por ir más allá con la iniciativa, como Nike con “Move to Zero”.
+#### - Agregar variable “Impacto Ambiental”. 
 
 
 ### **Fuentes de datos**
+#### Blogs variados y revistas de Moda (como Vogue, por ejemplo) que hablaran más en profundidad sobre los materiales utilizados en la ropa. 
 #### - [IMF](https://blogs.imf-formacion.com/blog/mba/materiales-sostenibles-textil/)
 #### - [Sustain Your Style](https://es.sustainyourstyle.org/en/fiber-ecoreview)
 #### - [Vogue](https://www.vogue.mx/moda/articulo/telas-sustentables-y-que-menos-contaminan-cuales-son)

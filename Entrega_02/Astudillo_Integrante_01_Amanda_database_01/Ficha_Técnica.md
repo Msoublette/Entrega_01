@@ -3,10 +3,11 @@
 ## _Amanda Astudillo_
 
 ### Caracteristicas Datos
-#### La base de datos analiza diversas marcas de ropa sustentables de Chile. Esto a través de 5 variables: año fundación, género al que está dirigida la ropa (femenino, masculino, unisex), si cuenta o no con tienda física, qué mecanismo o material sustentable está presente en las prendas que ofrece la marca, y si produce desechos que contaminan el planeta.
+#### La base de datos analiza diversas marcas de ropa sustentables de Chile. Esto a través de 5 variables: _año fundación, género al que está dirigida la ropa_ (femenino, masculino, unisex), _si cuenta o no con tienda física, qué mecanismo o material sustentable está presente en las prendas que ofrece la marca, y si produce desechos que contaminan el planeta._
 
 
 ### Alcance metodologico
+#### Esta base de datos es muy importante para nuestra investigación, pues el trabajo está enfocado en Chile y en el surgimiento de marcas sustentables que contrarrestan los efectos del fast fashion. Los datos expuestos en esta base, son esenciales para seguir trabajando a partir de nuestra hipótesis. Sin embargo, una restricción es la variable de los precios, que en algunos casos, son altos. 
 
 ### Variables Incorporadas 
 #### - _Marca:_ se refiere al nombre de la marca de ropa. Ejemplo: Luna Lunera, Palo Santo, Roberta, etc. 

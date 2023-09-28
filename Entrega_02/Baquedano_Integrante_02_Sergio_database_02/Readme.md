@@ -16,7 +16,7 @@
 
 
 ### **Fuentes de datos**
-#### - [Statista](https://www.statista.com/)
+#### - Ocupé como fuente la página web Statista ya que contiene datos duros sobre la economía de cada una de las grandes empresas (ganancias por ventas anuales, por ejemplo)[Statista](https://www.statista.com/)
 #### - Páginas web oficiales de marcas, por ejemplo: [Nike](https://www.nike.com/es/sostenibilidad)
 
 ### **¿Qué preguntas responde mi base de datos?**
