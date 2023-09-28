@@ -7,9 +7,6 @@
 #### La base de datos analiza diversas marcas de ropa “Fast Fashion” en el mundo. Cuenta con algunas variables que permiten identificar el país de origen de la marca, las ganancias anuales de cada una, a qué público apunta la marca y si genera desechos textiles, donde esta última variable abre la posibilidad de analizar dos variables más que van relacionadas, si recicla y cómo lo hace (en el caso que si recicle).
 
 
-### Alcance Metodológico 
-
-
 ### Variables Incorporadas 
 
 #### - _Marca:_ especifica una marca de ropa Fast Fashion por su nombre. Ej: Zara, Nike, etc.

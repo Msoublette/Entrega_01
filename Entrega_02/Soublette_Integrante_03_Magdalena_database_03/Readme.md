@@ -11,15 +11,17 @@
 #### 7. Finalmente para definir el método, leí sus medidas, las cuales también se encontraban en sus propios sitios web o noticias de la marca.
 
 
-### **Código utilizado** 
-
-
 ### **Decisiones a comentar**
 #### - Eliminar variable “Genera Desechos Textiles”. 
 #### - En la variable “Métodos” decidí poner la medida más grande, organizada o llamativa de cada marca, ya que muchas de ellas comparten métodos de reciclaje, sin embargo, algunas se caracterizan por ir más allá con la iniciativa, como Nike con “Move to Zero”.
 
 
 ### **Fuentes de datos**
+#### - [IMF](https://blogs.imf-formacion.com/blog/mba/materiales-sostenibles-textil/)
+#### - [Sustain Your Style](https://es.sustainyourstyle.org/en/fiber-ecoreview)
+#### - [Vogue](https://www.vogue.mx/moda/articulo/telas-sustentables-y-que-menos-contaminan-cuales-son)
+#### - [Orange Fiber](https://orangefiber.it/)
+#### -  [Vesti la Natura](https://www.vestilanatura.it/es/)
 
 
 ### **¿Qué preguntas responde mi base de datos?**

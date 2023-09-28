@@ -13,16 +13,20 @@
 #### 9. Finalmente para definir el rango de precios, saqué la información desde la página web de cada marca. 
 
 
-### **Código utilizado** 
-
-
 ### **Decisiones a comentar**
 #### - Eliminar variable “¿Es sustentable?”. 
 #### - Cuando ya había finalizado la base de datos, decidí añadir el rango de precios de cada marca ya que es importante para clasificarlas. 
 
 
 ### **Fuentes de datos**
-
+#### - [Corma](https://www.corma.cl/moda-sustentable-marcas-mundiales-innovan-usando-fibra-de-madera/)
+#### - [Organización El bien Social](https://elbiensocial.org/11-marcas-de-moda-sustentable-y-ecologica-en-chile/)
+#### - [La Tercera](https://www.latercera.com/aniversario/noticia/moda-sostenible-4-empresas-chilenas-en-el-mundo/S5FK7GZTYVAYJGXXYSFROT3BMY/)
+#### - [SISA](https://shopsisa.com/pages/about)
+#### - [Wild Lama](https://www.wildlama.com/pages/nosotros)
+#### - [Trébol Sastreria](https://trebolsastreria.com/)
+#### - [Docena](https://docena.net/shop/)
+#### - [Gnomowear](https://www.gnomowear.cl/pages/quienes-somos)
 
 ### **¿Qué preguntas responde mi base de datos?**
 

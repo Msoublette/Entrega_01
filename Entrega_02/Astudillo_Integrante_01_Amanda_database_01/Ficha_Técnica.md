@@ -6,9 +6,6 @@
 #### La base de datos analiza diversas marcas de ropa sustentables de Chile. Esto a través de 5 variables: año fundación, género al que está dirigida la ropa (femenino, masculino, unisex), si cuenta o no con tienda física, qué mecanismo o material sustentable está presente en las prendas que ofrece la marca, y si produce desechos que contaminan el planeta.
 
 
-### Alcance Metodológico 
-
-
 ### Variables Incorporadas 
 #### - _Marca:_ se refiere al nombre de la marca de ropa. Ejemplo: Luna Lunera, Palo Santo, Roberta, etc. 
 #### - _Año fundación:_ se refiere al año en que se fundó la marca de ropa. Ejemplo: 2012, 1990, 2003, etc. 

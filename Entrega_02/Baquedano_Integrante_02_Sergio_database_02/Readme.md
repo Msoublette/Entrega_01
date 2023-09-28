@@ -10,17 +10,14 @@
 #### 6. Finalmente para definir el método, leí sus medidas, las cuales también se encontraban en sus propios sitios web o noticias de la marca.
 
 
-### **Código utilizado** 
-
-
 ### **Decisiones a comentar**
 #### - Eliminar variable “Genera Desechos Textiles”. 
 #### - En la variable “Métodos” decidí poner la medida más grande, organizada o llamativa de cada marca, ya que muchas de ellas comparten métodos de reciclaje, sin embargo, algunas se caracterizan por ir más allá con la iniciativa, como Nike con “Move to Zero”.
 
 
 ### **Fuentes de datos**
-#### [Statista](https://www.statista.com/)
-#### Páginas web oficiales de marcas, por ejemplo: [Nike](https://www.nike.com/es/sostenibilidad)
+#### - [Statista](https://www.statista.com/)
+#### - Páginas web oficiales de marcas, por ejemplo: [Nike](https://www.nike.com/es/sostenibilidad)
 
 ### **¿Qué preguntas responde mi base de datos?**
 
