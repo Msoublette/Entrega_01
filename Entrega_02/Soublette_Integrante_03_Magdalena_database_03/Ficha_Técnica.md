@@ -5,6 +5,7 @@
 ### Caracteristicas Datos
 #### La base de datos compara diversos materiales utilizados para hacer ropa. Con 20 tipos distintos de materias primas, sean naturales o sintéticas, se abren las variables que especifican su origen, tipo de tela, si son un material biodegradable o no, cuál es su nivel de impacto ambiental y la razón del nivel de impacto con el fin de justificar su grado de daño ecológico.
 
+### Alcance metodologico
 
 ### Variables Incorporadas
 #### - _Material:_ especifica el nombre del material utilizado para crear ropa. Ej: Algodón, Nylon, etc.
