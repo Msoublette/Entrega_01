@@ -5,8 +5,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    background-color: #8adee3;
+    height: 130vh;
+    background-color: #ffffff;
 }
 
 .container {
@@ -14,16 +14,16 @@ body {
 }
 
 h1 {
-    color: #333;
+    color: #AACB73;
 }
 
 p {
-    color: #666;
+    color: #000000;
     margin-bottom: 20px;
 }
 
 img {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
     display: block;
     margin: 0 auto;

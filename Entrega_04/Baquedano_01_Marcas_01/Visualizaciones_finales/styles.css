@@ -1,12 +1,12 @@
 body {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', serif;
     margin: 0;
     padding: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    background-color: #8adee3;
+    height: 130vh;
+    background-color: #ffffff;
 }
 
 .container {
@@ -14,16 +14,16 @@ body {
 }
 
 h1 {
-    color: #333;
+    color: #AACB73;
 }
 
 p {
-    color: #666;
-    margin-bottom: 20px;
+    color: #000000;
+    margin-bottom: 10px;
 }
 
 img {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
     display: block;
     margin: 0 auto;
