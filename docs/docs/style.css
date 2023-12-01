@@ -1,0 +1,106 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Roboto+Condensed&display=swap');  /*importamos tipografías*/
+
+body {
+    margin: 0 auto;
+    background-color:white;
+    max-width: 80%;
+    min-width: 500px;
+    text-align: center;
+    font-family: 'Lora';
+}
+
+h1 {
+    font-family: 'Roboto Condensed';
+}
+
+h2 {
+    font-family: 'Roboto Condensed';
+}
+
+p {
+    text-align: justify;
+    font-family: 'Lora';
+}
+
+.barratareas {
+    background-color:#CDE990;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+nav {
+    text-align: center;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    display: inline-block;
+    margin: 0 200px;
+}
+
+a {
+    color: #000000;
+    font-weight: bold;
+    font-family: 'Roboto Condensed';
+    font-size: 18px;
+}
+
+#inicio {
+    margin-top: 50px;
+}
+
+.bajada {
+    display: flex;
+    align-items: center;
+}
+
+.texto {
+    margin-right: 30px;
+    text-align: justify;
+    font-family: 'Lora';
+}
+
+.imagenes1{
+    display: flex;
+    align-items:baseline;
+    margin-left: 20px;
+}
+
+.imagenes3 {
+    padding-left: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    display:block;
+}
+
+.espaciador {
+    margin-bottom: 150px;
+}
+
+#final {
+    background-color:#FFD4D4;
+    padding: 20px;
+    margin-top: auto;
+    align-items:baseline;
+}
+
+#integrantes {
+    margin-left: auto;
+}
+
+.derecha {
+    text-align:right;
+}
+
+/*COLORES
+#FFFFFF
+#FFD4D4
+#FFFFE8
+#CDE990
+#AACB73
+*/
