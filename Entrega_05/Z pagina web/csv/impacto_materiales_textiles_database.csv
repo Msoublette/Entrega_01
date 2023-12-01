@@ -1,0 +1,21 @@
+N°;Material para hacer ropa;Origen;Tipo de tela;¿Biodegradable?;Impacto Ambiental;Razón de Impacto
+1;Algodón;Natural;Fibra Natural;Si;Medio;Consume mucha agua y ocupa muchos químicos
+2;Lana;Natural;Fibra Natural;Si;Medio;No se cultiva, por ende se obtiene a través de ganado
+3;Seda;Natural;Fibra Natural;Si;Medio/Alto;Ocupa mucha energía, mucha agua y químicos varios.
+4;Nylon;Sintético;Sustancia Arfificial;No;Alto;Responsable de 60 millones de toneladas de emisiones de gases de efecto invernadero
+5;Perlé;Sintético;Algodón mercerizado;No;Alto;Contamina el aire y agua con sus micro plásticos
+6;Lycra;Sintético;Fibra Artificial;No;Medio;Al ser 100% química, ocupa muchos químicos dañinos para el medioambiente
+7;Terciopelo;Mixto;Fibra Natural y Artificial;No;Medio/Alto;Al usar fibras mixtas, gasta agua y energía a la vez que usa químicos por su medio origen sintético
+8;Satén;Mixto;Ligamento;No;Medio;Su producción puede ser de seda (natural pero más caro) o de poliéster (mas contaminador pero más barato)
+9;Rayón;Sintético;Fibra Artificial;No;Alto;Producto de fibra artificial celulósica.  Cada vez menos usado por sus efectos contaminantes de disfulfuro de carbono y subproductos del proceso.
+10;Madera;Natural;Fibra Natural;Si;Bajo;Biodegradable. Está reemplazando alcon su pulpa forestal para producir telas.
+11;Lino orgánico ;Natural;Fibra Natural;Si;Bajo;Puede llegar a ser completamente biodegradable
+12;Tencel ;Natural;Fibra Natural;Sí;Bajo;La energía utilizada para cultivar, producir y fabricarla resulta ser 100% renovable y además, ocupa un 85% menos de agua.
+13;Bambú;Natural;Fibra Artificial;Sí;Medio;Para convertir el bambú en fibra, se procesa con fuertes disolventes químicos que son potencialmente dañinos
+14;Cáñamo;Natural;Fibra Natural;Sí;Bajo;Es una de las plantas de más rápido crecimiento y no necesita mucha agua, energía, pesticidas ni fertilizantes.
+15;Corcho;Natural;Fibra Natural;sí;Bajo;Contribuyen a la lucha contra el cambio climático, ya que un kilo de corcho absorbe 50 kilos de CO2 de la atmósfera.
+16;Fibra de naranja;Natural;Fibra Artificial;Sí;Bajo;Es procedente de los residuos de la industria del zumo y está fabricada con ceclulosa 100% natural.
+17;Cupro;Mixto;Fibra Artificial;Sí;Bajo;Las grandes cantidades de agua y productos químicos utilizados en la producción de Cupro se reutilizan constantemente hasta que se agotan por completo.
+18;Ramio;Natural;Fibra Natural;Sí;Bajo;La fibra de ramio es una fibra natural. 100% biodegradable
+19;Poliéster reciclado;Sintético;Fibra Artificial;No;Medio;Genera menos emisiones de Co2 en comparación al políéster virgen, pero tarda años en desaparecer una vez desechado. Además, sigue liberando microfibras de plástico.
+20;Lyocell;Natural;Fibra Artificial;Sí;Medio;El consumo de agua y energía durante el proceso es alto
