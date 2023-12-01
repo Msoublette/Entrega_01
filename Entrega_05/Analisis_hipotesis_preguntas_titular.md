@@ -9,6 +9,6 @@
 ## - *¿Cuáles son los países que tienen más marcas fast fashion?*
 ## - *¿Cuál material es el más utilizado por las marcas sustentables?*
 ## Es por esto que nuestra historia se basará en la nueva hipótesis y responderá a las preguntas de investigación. Enfocaremos el relato en el rol que han cumplido las marcas nacionales sustentables o con sello verde, principalmente a partir del aporte al cuidado del medioambiente que generan, y desde ahí desglosaremos el resto de la información. Esto incluirá información sobre los países que más producen fast fashion; el impacto medioambiental de los diversos materiales con los que se confecciona ropa y cuáles son los materiales sustentables que utilizan las marcas chilenas. Esto lo haremos a partir de tres temas que serán similares a una noticia, e incluirán cifras recopiladas desde nuestras bases de datos
-## El titular de nuestro reportaje será: Marcas de moda sustentables: una respuesta a la crisis climática y al fast fashion
+## El titular de nuestro reportaje será: Fortalecimiento moda sustentable tras el Fast Fashion
 
 

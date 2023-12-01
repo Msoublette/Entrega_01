@@ -25,3 +25,8 @@
 | Decisiones elementos visuales     | Desarrolló    | -      | Subió      |
 | Video      | -      | Desarrolló y subió     | -      |
 | Presentación     | - | Desarrolló  y subió    | -     |
+
+
+## Detalles
+
+### Al analizar la entrega se podrán dar cuenta de que tanto las imaganes como las bases de datos se encuentran duplicadas (en "docs" y en "propuestas_visualizaciones_atomicas"). Esto debido a que, a la hora de ubicar en el archivo html la ubicación de estos recursos, no se visualizaban aquellos que se encontraban dentro de una carpeta que está dentro de otra carpeta. 
