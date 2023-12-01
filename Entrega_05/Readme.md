@@ -7,6 +7,8 @@
 
 ## Links Importantes 
 
+[Página](https://msoublette.github.io/Repo_proyecto_equipo/)
+
 [Video](https://youtu.be/Mzm7e2WSdQQ)
 
 [Presentación](https://www.canva.com/design/DAFsgYdytR0/vepJINUin4JZ94qUP9bOzQ/edit?utm_content=DAFsgYdytR0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
