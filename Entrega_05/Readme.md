@@ -21,7 +21,7 @@
 | Readme       | -      | -       | Desarrolló  y subió     |
 | Analisis Hipótesis preguntas titular       | Desarrolló  y subió    | -      | -       |
 | Propuesta diseño      | -      | Desarrolló  y subió    | -     |
-| Comentarios crónica      | Desarrolló      | Dato 15      | Subió      |
+| Comentarios crónica      | Desarrolló      | -      | Subió      |
 | Decisiones elementos visuales     | Desarrolló    | -      | Subió      |
 | Video      | -      | Desarrolló y subió     | -      |
 | Presentación     | - | Desarrolló  y subió    | -     |
