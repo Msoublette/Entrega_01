@@ -59,6 +59,17 @@ a {
     align-items: center;
 }
 
+.bajada2 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.texto3 {
+    align-self: baseline;
+    
+}
+
 .texto {
     margin-right: 30px;
     text-align: justify;
